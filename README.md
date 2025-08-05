@@ -59,7 +59,7 @@ This will create all necessary tables:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/941-Abhi/Prodigy_5.git>
 cd project
 ```
 
@@ -164,14 +164,8 @@ src/
 - **"Database doesn't exist"** - Create the database first
 - **"Connection refused"** - Make sure MySQL is running on the correct port
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ## License
+
 
 This project is licensed under the MIT License. 
